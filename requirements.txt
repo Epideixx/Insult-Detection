@@ -1,0 +1,8 @@
+# List of dependencies for detecteur d'insultes
+tweepy
+textblob
+pandas
+dash
+dash_bootstrap_components
+thinc
+spacy
